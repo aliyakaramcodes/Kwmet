@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kemet - Natural Skincare</title>
+    <style>
+        body {
+            font-family: "Papyrus", fantasy;
+            background-color: #2F3B2E;
+            color: #E0C097;
+            text-align: center;
+            padding: 20px;
+        }
+        header {
+            background-color: #7B4F2B;
+            padding: 20px;
+            font-size: 24px;
+            border-bottom: 3px solid #E0C097;
+        }
+        .product {
+            border: 2px solid #E0C097;
+            padding: 15px;
+            margin: 20px;
+            background-color: #4F3A2D;
+            border-radius: 10px;
+        }
+        button {
+            background-color: #E0C097;
+            color: #2F3B2E;
+            padding: 10px;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kemet Natural Skincare</h1>
+    </header>
+    
+    <div class="product">
+        <h2>DermaHeal</h2>
+        <p>A natural, science-backed skincare remedy to reduce burn scars, even out skin tone, and promote skin regeneration.</p>
+        <p><strong>Ingredients:</strong> Rice Flour, Aloe Vera Gel, Honey, Potato Juice, Onion Extract, Rose Oil/Vitamin E Oil, Lavender Oil (Optional).</p>
+        <p><strong>How to Use:</strong> Apply a thin layer before bedtime, wash off in the morning, and moisturize.</p>
+        <button>Order Now (Cash on Delivery)</button>
+    </div>
+    
+    <div class="product">
+        <h2>DermaGlow</h2>
+        <p>A skincare formula for brightening and scar reduction.</p>
+        <p><strong>Benefits:</strong> Skin booster and moisturizer. Results are seen usually after 2 days of constant usage.</p>
+        <p><strong>Instructions:</strong></p>
+        <ul>
+            <li>Use daily 2 times a day.</li>
+            <li>During the first week, use it 2 times a day.</li>
+            <li>After that, it can be used 3 times a week.</li>
+            <li>Can be used for those with insulin resistance (for quicker results).</li>
+        </ul>
+        <p><strong>Ingredients:</strong> Rice Flour, Jojoba Oil, Almond Oil, Sesame Oil, Hibiscus, Matcha, Aloe Vera, Lavender Oil (for scent).</p>
+        <button>Order Now (Cash on Delivery)</button>
+    </div>
+</body>
+</html>
